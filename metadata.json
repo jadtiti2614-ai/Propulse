@@ -1,0 +1,6 @@
+{
+  "name": "Propulse - Révélateur de Potentiel & Idées Business",
+  "description": "Analyse personnalisée de votre potentiel, vos compétences et vos contraintes pour dénicher des idées de business créatives et viables sur-mesure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
